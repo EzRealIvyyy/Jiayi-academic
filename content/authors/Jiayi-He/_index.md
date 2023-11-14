@@ -2,6 +2,8 @@
 # Display name
 title: 何嘉怡
 
+name_pronunciation: Jiayi He
+
 # Full name (for SEO)
 first_name: Jiayi
 last_name: He
@@ -19,7 +21,7 @@ role: Undergraduate student of Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: South China University of Technology
-    url: https://www.scut.edu.cn
+    url: https://www.scut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ...

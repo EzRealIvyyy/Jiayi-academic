@@ -11,7 +11,6 @@ last_name: Chien
 
 # Status emoji
 status:
-	@@ -17,34 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline

@@ -11,6 +11,9 @@ last_name: Chien
 
 # Status emoji
 status:
+  icon: ☕️
+
+# Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline

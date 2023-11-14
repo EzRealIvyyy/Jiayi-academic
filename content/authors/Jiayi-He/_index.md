@@ -33,10 +33,10 @@ education:
   courses:
     - course: Visiting student
       institution: University of California, Berkeley
-      year: 2023/08 - 2023/12
+      year: 2023
     - course: B.E. in Intelligent Manufacturing Engineering
       institution: South China University of Technology
-      year: 2021/09 - expected 2025/07
+      year: 2021 - 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
